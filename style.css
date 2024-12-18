@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(146, 41, 222);
+}
+
+.heading{
+    width: 50%;
+    height: 150px;
+    background-color: blue;
+    display: flex;
+    justify-content: center;
+    align-items: center;   
+    margin: auto; 
+    margin-top: 10%;
+    border: 5px solid yellow;
+    border-radius: 15px;
+}
+
+h1{
+    color: yellow;
+    font-size: 25px;
+    font-weight: bold;
+    font-family: sans-serif;
+}
